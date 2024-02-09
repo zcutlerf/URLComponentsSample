@@ -26,7 +26,7 @@ We'll talk about how `URLComponents` and `URLRequest` allow us to customize our 
 * Decoding an [Image from Data](https://developer.apple.com/documentation/uikit/uiimage/1624106-init)
 
 
-## The Old Way
+## The "Easy" Way Out
 
 Without using URLComponents and URLRequest, we could call the Emoji Kitchen API like this:
 
