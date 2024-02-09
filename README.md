@@ -7,7 +7,7 @@ We're going to call the [Emoji Kitchen API](https://emk.vercel.app) by [@arnav-k
 We'll talk about how `URLComponents` and `URLRequest` allow us to customize our URLs and be safer
 
 > [!NOTE]
-> If you want to skip to the [sample code](https://github.com/zcutlerf/URLComponentsSample) for this project, you can find that [here](https://github.com/zcutlerf/URLComponentsSample).
+> If you'd rather view the sample code, clone this project and open it in Xcode!
 
 
 ## Topics Covered
