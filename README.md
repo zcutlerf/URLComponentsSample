@@ -4,7 +4,7 @@
 ## TL;DR
 
 We're going to call the [Emoji Kitchen API](https://emk.vercel.app) by [@arnav-kr](https://github.com/arnav-kr). This API will take 2 emojis, and return an image representing the combination of both emojis.
-We'll talk about how `URLComponents` and `URLRequest` allow us to customize our URLs and be safer
+We'll talk about how `URLComponents` and `URLRequest` allow us to customize our URLs and be safer than creating a URL from a string.
 
 > [!NOTE]
 > If you'd rather view the sample code, clone this project and open it in Xcode!
